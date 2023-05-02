@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://52.66.168.230:8081/repository/today-snapshop/</url>
+	      <url>http://52.66.168.230:8081/repository/today-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
